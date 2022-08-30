@@ -1,0 +1,26 @@
+.header-section {
+  display: flex;
+  margin: 50px;
+  background-image: url("assets/black-background.webp");
+  border-radius: 10px;
+  height: 500px;
+  width: auto;
+  color: white;
+}
+#header-id {
+  font-size: 50px;
+}
+.header-blog {
+  padding-left: 70px;
+  padding-top: 100px;
+}
+.img-gap {
+  margin: 40px;
+}
+.header-button {
+  background-color: red;
+  border: none;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+}
